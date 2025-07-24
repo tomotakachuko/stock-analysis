@@ -107,11 +107,11 @@ streamlit run app.py
 ## 📦 依存関係
 
 ```
-streamlit==1.28.1
-yfinance==0.2.18
-pandas==2.0.3
-plotly==5.17.0
-numpy==1.24.3
+streamlit
+yfinance
+pandas
+plotly
+numpy
 ```
 
 ## 🐛 トラブルシューティング
